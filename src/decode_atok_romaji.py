@@ -82,7 +82,8 @@ def decode_romaji(romaji_bytes):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='ATOKのローマ字テーブルをデコード')
+    parser = argparse.ArgumentParser(
+            description='ATOKのスタイルファイル中のローマ字テーブルを人が読める形にデコードする')
     parser.add_argument('input', type=str,
                     help='input file. ATOKスタイルファイル(.STY)')
     args = parser.parse_args()
