@@ -4,7 +4,7 @@ ATOK for Mac のローマ字テーブルへの流し込み
 
 ATOK for Mac のローマ字テーブルへ、流し込みをするスクリプトです。
 
-- `../sample/AZIK_romaji_feed.applescript`__
+- `AZIK_romaji_feed.applescript <../sample/AZIK_romaji_feed.applescript>`__
 
 スクリプト中の ``addRomaji`` コマンドの引数をお好みで変えてお使いください。
 
