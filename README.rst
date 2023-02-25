@@ -22,7 +22,7 @@ ATOKのローマ字テーブルの編集が使いづらかったのでスクリ�
 
 ATOK for Mac にローマ字テーブルを流し込むスクリプトを作りました。
 
-- :doc:`doc/romaji_feed_mac.rst`
+- `ATOK for Mac のローマ字テーブルへの流し込み <doc/romaji_feed_mac.rst>`__
 
 
 準備
