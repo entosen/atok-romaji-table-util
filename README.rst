@@ -20,9 +20,13 @@ ATOKのローマ字テーブルの編集が使いづらかったのでスクリ�
   - 子音×母音のマトリックスから、ATOKにインポート可能なローマ字テーブルを生成する
 
 
+ATOK for Windows にローマ字テーブルを流し込むスクリプトを作りました。
+
+- `ATOK for Windows のローマ字テーブルへのインポート(流し込み) <doc/romaji_feed_windows.rst>`__
+
 ATOK for Mac にローマ字テーブルを流し込むスクリプトを作りました。
 
-- `ATOK for Mac のローマ字テーブルへの流し込み <doc/romaji_feed_mac.rst>`__
+- `ATOK for Mac のローマ字テーブルへのインポート(流し込み) <doc/romaji_feed_mac.rst>`__
 
 
 準備
