@@ -37,5 +37,6 @@ Tabキーを何度か押して、「＋」ボタンにフォーカスがある�
 
 .. image:: fig/atok_for_mac_edit_romaji_table.png
 
+IME を OFF (英字入力) にしておく
 
 スクリプトエディタで、このスクリプトを実行
